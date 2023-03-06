@@ -9,14 +9,6 @@ body {
     background: linear-gradient(45deg, rgb(253, 142, 142), rgb(124, 89, 89));
 }
 
-.FundoBody {
-    background-image: url(".IMG/gatitos.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 90%;
-}
-
 .fundo1 {
     background: linear-gradient(23deg, rgb(245, 141, 158), rgb(92, 56, 56));
     text-align: center;
