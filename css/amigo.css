@@ -10,7 +10,7 @@ body {
 }
 
 .FundoBody {
-    background-image: url("Multimidia/gatitos.jpg");
+    background-image: url("IMG/gatitos.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
