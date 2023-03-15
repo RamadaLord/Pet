@@ -1,0 +1,120 @@
+.info {
+    border: 5px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background: linear-gradient(45deg, rgb(253, 142, 142), rgb(124, 89, 89));
+}
+
+.FundoBody {
+    background-image: url("Multimidia/gatitos.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 90%;
+}
+
+.fundo1 {
+    background: linear-gradient(23deg, rgb(245, 141, 158), rgb(92, 56, 56));
+    text-align: center;
+    font-family: Verdana;
+    color: rgb(134, 5, 95);
+    font-size: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.fundo2 {
+    background-color: rgb(78, 3, 50);
+    color: aliceblue;
+    font-size: 30px;
+    margin: 10px;
+    padding: 20px;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Verdana
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Verdana
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Verdana
+}
+
+ol {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana
+}
+
+ul {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana
+}
+
+dl {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana
+}
+
+dt {
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    font-family: Verdana;
+}
+
+dd {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Verdana
+}
+
+td, th {
+    padding: 1.2em;
+    font-size: 20px;
+    border: 1px solid #ffffff;
+    text-align: center;
+}
+
+th {
+    background-color: bisque;
+}
+
+td {
+    font-weight: bold;
+    
+}
